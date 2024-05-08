@@ -1,0 +1,44 @@
+body{
+    background-color: #1f2933 !important;
+}
+.bg-cust{
+    background-color: #323f4b;
+}
+.cust-text{
+    color: #9aa5b1 !important;
+}
+.cust-font{
+    font-size:16px;
+    color:white;
+    font-weight:bold;
+}
+.btn-cust{
+    background-color:#E02C77;
+    color:white;
+}
+.btn-cust:hover{
+    background-color:#b82160;
+    color:white;
+}
+.navbar-cust{
+    background-color:#1f2933 !important;
+}
+.read-more-link{
+    color:#d0b200;
+    font-size:16px;
+    text-decoration:none;
+}
+.read-more-link:hover{
+    color:#d0b200;
+    font-size:16px;
+    text-decoration:none;
+}
+
+.paragraph{
+    color:white;
+    font-size:16px;
+}
+
+.cust-text-1{
+    color: #b9c3cd !important;
+}
